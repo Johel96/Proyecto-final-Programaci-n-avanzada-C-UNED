@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive - Universidad Estatal a Distancia\\UNED\\1.Cursadas\\00830 Programaci\u00F3n avanzada\\Proyectos\\ProyectoServidor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E927CB0-F8C5-4811-AF28-F26440E2A207}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\user\\onedrive - universidad estatal a distancia\\uned\\1.cursadas\\00830 programaci\u00F3n avanzada\\proyectos\\proyectoservidor\\logicanegocio\\articuloln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E927CB0-F8C5-4811-AF28-F26440E2A207}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\articuloln.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C565EBAE-BA67-4182-86D7-62E507AE3525}|CapaDePresentacion\\CapaDePresentacion.csproj|c:\\users\\user\\onedrive - universidad estatal a distancia\\uned\\1.cursadas\\00830 programaci\u00F3n avanzada\\proyectos\\proyectoservidor\\capadepresentacion\\frmservidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C565EBAE-BA67-4182-86D7-62E507AE3525}|CapaDePresentacion\\CapaDePresentacion.csproj|solutionrelative:capadepresentacion\\frmservidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C565EBAE-BA67-4182-86D7-62E507AE3525}|CapaDePresentacion\\CapaDePresentacion.csproj|C:\\Users\\user\\OneDrive - Universidad Estatal a Distancia\\UNED\\1.Cursadas\\00830 Programaci\u00F3n avanzada\\Proyectos\\ProyectoServidor\\capadepresentacion\\frmservidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C565EBAE-BA67-4182-86D7-62E507AE3525}|CapaDePresentacion\\CapaDePresentacion.csproj|solutionrelative:capadepresentacion\\frmservidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F04010-F3EC-499C-8981-CFB995005CCA}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\user\\onedrive - universidad estatal a distancia\\uned\\1.cursadas\\00830 programaci\u00F3n avanzada\\proyectos\\proyectoservidor\\accesodatos\\articuload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90F04010-F3EC-499C-8981-CFB995005CCA}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\articuload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmServidor.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Universidad Estatal a Distancia\\UNED\\1.Cursadas\\00830 Programaci\u00F3n avanzada\\Proyectos\\ProyectoServidor\\CapaDePresentacion\\frmServidor.cs",
+              "RelativeDocumentMoniker": "CapaDePresentacion\\frmServidor.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Universidad Estatal a Distancia\\UNED\\1.Cursadas\\00830 Programaci\u00F3n avanzada\\Proyectos\\ProyectoServidor\\CapaDePresentacion\\frmServidor.cs",
+              "RelativeToolTip": "CapaDePresentacion\\frmServidor.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAKUAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T00:28:41.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmServidor.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Universidad Estatal a Distancia\\UNED\\1.Cursadas\\00830 Programaci\u00F3n avanzada\\Proyectos\\ProyectoServidor\\CapaDePresentacion\\frmServidor.cs",
+              "RelativeDocumentMoniker": "CapaDePresentacion\\frmServidor.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Universidad Estatal a Distancia\\UNED\\1.Cursadas\\00830 Programaci\u00F3n avanzada\\Proyectos\\ProyectoServidor\\CapaDePresentacion\\frmServidor.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaDePresentacion\\frmServidor.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T00:28:28.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArticuloAD.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Universidad Estatal a Distancia\\UNED\\1.Cursadas\\00830 Programaci\u00F3n avanzada\\Proyectos\\ProyectoServidor\\AccesoDatos\\ArticuloAD.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\ArticuloAD.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Universidad Estatal a Distancia\\UNED\\1.Cursadas\\00830 Programaci\u00F3n avanzada\\Proyectos\\ProyectoServidor\\AccesoDatos\\ArticuloAD.cs",
+              "RelativeToolTip": "AccesoDatos\\ArticuloAD.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwB0AAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T03:10:38.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticuloLN.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Universidad Estatal a Distancia\\UNED\\1.Cursadas\\00830 Programaci\u00F3n avanzada\\Proyectos\\ProyectoServidor\\LogicaNegocio\\ArticuloLN.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\ArticuloLN.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Universidad Estatal a Distancia\\UNED\\1.Cursadas\\00830 Programaci\u00F3n avanzada\\Proyectos\\ProyectoServidor\\LogicaNegocio\\ArticuloLN.cs",
+              "RelativeToolTip": "LogicaNegocio\\ArticuloLN.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T03:09:36.796Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
