@@ -1,0 +1,9 @@
+C:\Users\user\OneDrive - Universidad Estatal a Distancia\UNED\00830 Programación avanzada\Proyectos\ProyectoCliente\Interfaz.Cliente\obj\Debug\net8.0-windows\FrmPrincipal.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Universidad Estatal a Distancia\UNED\00830 Programación avanzada\Proyectos\ProyectoCliente\Interfaz.Cliente\obj\Debug\net8.0-windows\Interfaz.Cliente.Principal.resources
+C:\Users\user\OneDrive - Universidad Estatal a Distancia\UNED\00830 Programación avanzada\Proyectos\ProyectoCliente\Interfaz.Cliente\obj\Debug\net8.0-windows\FrmPrincipal.csproj.GenerateResource.cache
+C:\Users\user\OneDrive - Universidad Estatal a Distancia\UNED\00830 Programación avanzada\Proyectos\ProyectoCliente\Interfaz.Cliente\obj\Debug\net8.0-windows\FrmPrincipal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Universidad Estatal a Distancia\UNED\00830 Programación avanzada\Proyectos\ProyectoCliente\Interfaz.Cliente\obj\Debug\net8.0-windows\FrmPrincipal.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Universidad Estatal a Distancia\UNED\00830 Programación avanzada\Proyectos\ProyectoCliente\Interfaz.Cliente\obj\Debug\net8.0-windows\FrmPrincipal.AssemblyInfo.cs
+C:\Users\user\OneDrive - Universidad Estatal a Distancia\UNED\00830 Programación avanzada\Proyectos\ProyectoCliente\Interfaz.Cliente\obj\Debug\net8.0-windows\FrmPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Universidad Estatal a Distancia\UNED\00830 Programación avanzada\Proyectos\ProyectoCliente\Interfaz.Cliente\obj\Debug\net8.0-windows\Principal.resources
+C:\Users\user\OneDrive - Universidad Estatal a Distancia\UNED\00830 Programación avanzada\Proyectos\ProyectoCliente\Interfaz.Cliente\obj\Debug\net8.0-windows\FrmPrincipal.Principal.resources

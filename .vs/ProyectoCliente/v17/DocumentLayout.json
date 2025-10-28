@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive - Universidad Estatal a Distancia\\UNED\\1.Cursadas\\00830 Programaci\u00F3n avanzada\\Proyectos\\ProyectoCliente\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7BAC66-241A-4FC8-A028-101AAE3EB68D}|Interfaz.Cliente\\InterfazGrafica.csproj|c:\\users\\user\\onedrive - universidad estatal a distancia\\uned\\1.cursadas\\00830 programaci\u00F3n avanzada\\proyectos\\proyectocliente\\interfaz.cliente\\puertotcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7BAC66-241A-4FC8-A028-101AAE3EB68D}|Interfaz.Cliente\\InterfazGrafica.csproj|solutionrelative:interfaz.cliente\\puertotcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7BAC66-241A-4FC8-A028-101AAE3EB68D}|Interfaz.Cliente\\InterfazGrafica.csproj|c:\\users\\user\\onedrive - universidad estatal a distancia\\uned\\1.cursadas\\00830 programaci\u00F3n avanzada\\proyectos\\proyectocliente\\interfaz.cliente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7BAC66-241A-4FC8-A028-101AAE3EB68D}|Interfaz.Cliente\\InterfazGrafica.csproj|solutionrelative:interfaz.cliente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7BAC66-241A-4FC8-A028-101AAE3EB68D}|Interfaz.Cliente\\InterfazGrafica.csproj|C:\\Users\\user\\OneDrive - Universidad Estatal a Distancia\\UNED\\1.Cursadas\\00830 Programaci\u00F3n avanzada\\Proyectos\\ProyectoCliente\\interfaz.cliente\\frmconsultarpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BF7BAC66-241A-4FC8-A028-101AAE3EB68D}|Interfaz.Cliente\\InterfazGrafica.csproj|solutionrelative:interfaz.cliente\\frmconsultarpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7BAC66-241A-4FC8-A028-101AAE3EB68D}|Interfaz.Cliente\\InterfazGrafica.csproj|C:\\Users\\user\\OneDrive - Universidad Estatal a Distancia\\UNED\\1.Cursadas\\00830 Programaci\u00F3n avanzada\\Proyectos\\ProyectoCliente\\interfaz.cliente\\frmagregarpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BF7BAC66-241A-4FC8-A028-101AAE3EB68D}|Interfaz.Cliente\\InterfazGrafica.csproj|solutionrelative:interfaz.cliente\\frmagregarpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7BAC66-241A-4FC8-A028-101AAE3EB68D}|Interfaz.Cliente\\InterfazGrafica.csproj|C:\\Users\\user\\OneDrive - Universidad Estatal a Distancia\\UNED\\1.Cursadas\\00830 Programaci\u00F3n avanzada\\Proyectos\\ProyectoCliente\\interfaz.cliente\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BF7BAC66-241A-4FC8-A028-101AAE3EB68D}|Interfaz.Cliente\\InterfazGrafica.csproj|solutionrelative:interfaz.cliente\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PuertoTCP.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Universidad Estatal a Distancia\\UNED\\1.Cursadas\\00830 Programaci\u00F3n avanzada\\Proyectos\\ProyectoCliente\\Interfaz.Cliente\\PuertoTCP.cs",
+              "RelativeDocumentMoniker": "Interfaz.Cliente\\PuertoTCP.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Universidad Estatal a Distancia\\UNED\\1.Cursadas\\00830 Programaci\u00F3n avanzada\\Proyectos\\ProyectoCliente\\Interfaz.Cliente\\PuertoTCP.cs",
+              "RelativeToolTip": "Interfaz.Cliente\\PuertoTCP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T17:59:43.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Universidad Estatal a Distancia\\UNED\\1.Cursadas\\00830 Programaci\u00F3n avanzada\\Proyectos\\ProyectoCliente\\Interfaz.Cliente\\Program.cs",
+              "RelativeDocumentMoniker": "Interfaz.Cliente\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Universidad Estatal a Distancia\\UNED\\1.Cursadas\\00830 Programaci\u00F3n avanzada\\Proyectos\\ProyectoCliente\\Interfaz.Cliente\\Program.cs",
+              "RelativeToolTip": "Interfaz.Cliente\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T17:59:39.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmAgregarPedido.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Universidad Estatal a Distancia\\UNED\\1.Cursadas\\00830 Programaci\u00F3n avanzada\\Proyectos\\ProyectoCliente\\Interfaz.Cliente\\frmAgregarPedido.cs",
+              "RelativeDocumentMoniker": "Interfaz.Cliente\\frmAgregarPedido.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Universidad Estatal a Distancia\\UNED\\00830 Programaci\u00F3n avanzada\\Proyectos\\ProyectoCliente\\Interfaz.Cliente\\frmAgregarPedido.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\00830 Programaci\u00F3n avanzada\\Proyectos\\ProyectoCliente\\Interfaz.Cliente\\frmAgregarPedido.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T03:16:13.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmConsultarPedido.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Universidad Estatal a Distancia\\UNED\\1.Cursadas\\00830 Programaci\u00F3n avanzada\\Proyectos\\ProyectoCliente\\Interfaz.Cliente\\frmConsultarPedido.cs",
+              "RelativeDocumentMoniker": "Interfaz.Cliente\\frmConsultarPedido.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Universidad Estatal a Distancia\\UNED\\00830 Programaci\u00F3n avanzada\\Proyectos\\ProyectoCliente\\Interfaz.Cliente\\frmConsultarPedido.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\00830 Programaci\u00F3n avanzada\\Proyectos\\ProyectoCliente\\Interfaz.Cliente\\frmConsultarPedido.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T03:16:09.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Universidad Estatal a Distancia\\UNED\\1.Cursadas\\00830 Programaci\u00F3n avanzada\\Proyectos\\ProyectoCliente\\Interfaz.Cliente\\frmPrincipal.cs",
+              "RelativeDocumentMoniker": "Interfaz.Cliente\\frmPrincipal.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Universidad Estatal a Distancia\\UNED\\00830 Programaci\u00F3n avanzada\\Proyectos\\ProyectoCliente\\Interfaz.Cliente\\frmPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\00830 Programaci\u00F3n avanzada\\Proyectos\\ProyectoCliente\\Interfaz.Cliente\\frmPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T03:15:00.921Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
